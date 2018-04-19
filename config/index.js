@@ -98,7 +98,7 @@ var config = {
    */
 
   database: {
-    db: 'cnpmtest',
+    db: 'cnpmdb',
     username: 'root',
     password: '123456',
 
